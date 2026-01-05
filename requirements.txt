@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+numpy
+tensorflow
+scikit-learn
+joblib
+fer
+onnxruntime
+requests
+tqdm
